@@ -7,43 +7,63 @@ It brings together essential presentation features such as drawing, highlighting
 
 **Features**
 🖊️ Pen Tool – Draw freely on your screen during presentations
+
 🟡 Highlighter – Emphasize key points in real time
+
 🔍 Zoom Integration – Uses Windows Magnifier for smooth zooming
+
 🔦 Spotlight Mode – Focus audience attention on specific areas
+
 ⌨️ Keyboard & Mouse Support – Fully controllable without extra hardware
+
 🎛️ Background Mode – Runs silently while presenting
+
 🖥️ Windows Zoom (Magnifier) Configuration
 
 Presenter-App leverages the built-in Windows Magnifier tool for zoom functionality.
 
 **To customize your zoom experience:**
+
 Open Windows Search
+
 Type "Magnifier"
+
 Adjust settings such as:
+
 Zoom level
+
 Lens / Docked / Full-screen modes
 
 **Tracking options**
+
 💡 Tip: Configure this before your presentation for the best experience.
 
 **Installation**
+
 Download the latest release from the repository
+
 Run the installer (Windows only)
+
 Launch Presenter-App
+
 Enable/Disable features as needed
+
 Supported Devices
 
 **Presenter-App works with standard input devices:**
-Keyboard
-Mouse
+
+Keyboard & Mouse
 
 **It is also compatible with:**
+
 Baseus Orange Dot AI Wireless Presenter BS-OH085
 
 ⚠️ Important Notes:
 
 Plug in the USB receiver
+
 Turn on Bluetooth (if required)
+
 Some official software features from Baseus are no longer supported — this app helps restore and extend functionality
 
 🚀 Project Vision
@@ -52,20 +72,31 @@ This project was created to overcome limitations caused by discontinued or unsup
 Future contributions may include:
 
 🎙️ Live Speech-to-Text Transcription
-🌐 Real-time Translation (e.g., English → Arabic)
+
+🌐 Real-time Translation (e.g., English → Other Language)
+
 🎥 Screen Recording & Session Capture
+
 🤖 AI-assisted Presentation Tools
+
 🤝 Contributing
 
 Contributions are highly welcome!
 
 **You can help by:**
+
 Fixing bugs 
+
 Improving UI/UX 
+
 Adding new features 
+
 Enhancing device compatibility 
+
 Fork the repository
+
 Create a feature branch
+
 Submit a pull request
 
 **Motivation**
