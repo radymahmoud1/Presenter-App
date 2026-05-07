@@ -1,15 +1,7 @@
 # PresenterApp
 
 <p align="center">
-  <img src="assets/icon.png" width="140" alt="PresenterApp Logo">
-</p>
-
-<p align="center">
-  <b>Professional Presentation Overlay Software for Windows</b>
-</p>
-
-<p align="center">
-  Lightweight • Open-Source • Presenter Friendly
+  <img width="500" height="500" alt="icon" src="https://github.com/user-attachments/assets/db309f9c-5a06-46c2-a90a-b9e3b40527dd" />
 </p>
 
 ---
@@ -34,7 +26,7 @@ PresenterApp is designed for:
 
 ## Download
 
-The latest stable version can be found in the repository **Releases** section.
+The latest stable version can be found in the repository **[Releases](https://github.com/radymahmoud1/Presenter-App/releases/tag/V1.0.0_Initial_Release)** section.
 
 ### Included Downloads
 
@@ -42,7 +34,7 @@ The latest stable version can be found in the repository **Releases** section.
 - `PresenterApp_Setup_v1.0.0.exe`
 
 #### Portable Version (No Installation Required)
-- `PresenterApp_Portable_v1.0.0.exe`
+- `Portable_PresenterApp_v1.0.0.exe`
 
 ---
 
@@ -119,8 +111,118 @@ This prevents conflicts during normal typing and desktop usage.
 
 ---
 
-# Run from Source
+## Run from Source (For Developers)
 
 ```bat
 pip install -r requirements.txt
 python main.py
+```
+
+## Build EXE
+
+```bat
+build_exe.bat
+```
+
+## Open Source Windows Installer
+
+1. Run `build_exe.bat` first. This creates `dist/PresenterApp.exe`.
+2. Open `PresenterApp_Setup.iss` in Inno Setup.
+3. Click **Compile**.
+4. The installer will be created in `installer_output/`.
+
+## Python Version
+
+PresenterApp is recommended to run with:
+
+```text
+Python 3.10+
+```
+
+Tested environment:
+- Python 3.10.20
+- Windows 10 / Windows 11
+
+## Requirements for Building the Installer (in detail)
+
+To build the Windows installer for PresenterApp, the following tools are required:
+
+### 1. Python
+
+Recommended version:
+
+```text
+Python 3.10+
+```
+
+Tested environment:
+- Python 3.10.20
+- Windows 10 / Windows 11
+
+---
+
+### 2. Required Python Packages
+
+Install dependencies using:
+
+```bat
+pip install -r requirements.txt
+```
+
+---
+
+### 3. PyInstaller
+
+Used to generate the executable file.
+
+Install using:
+
+```bat
+pip install pyinstaller
+```
+
+---
+
+### 4. Inno Setup
+
+Used to build the Windows installer.
+
+Download:
+- https://jrsoftware.org/isinfo.php
+
+---
+
+## Build Process
+
+### Step 1 — Build EXE
+
+```bat
+build_exe.bat
+```
+
+This creates:
+
+```text
+dist/PresenterApp.exe
+```
+
+---
+
+### Step 2 — Build Installer
+
+1. Open:
+   ```text
+   PresenterApp_Setup.iss
+   ```
+
+2. Using:
+   - Inno Setup
+
+3. Click:
+   - **Compile**
+
+4. The installer will be generated inside:
+
+```text
+installer_output/
+```
