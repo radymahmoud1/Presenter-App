@@ -1,4 +1,7 @@
-#Readme
+#PresenterApp_Readme
+
+<img width="500" height="500" alt="icon" src="https://github.com/user-attachments/assets/e66f3b1e-d792-4c37-97a1-189311d004ba" />
+
 
 **Presenter-App**
 Presenter-App is an open-source desktop tool designed to enhance your presentations with powerful, easy-to-use on-screen utilities.
