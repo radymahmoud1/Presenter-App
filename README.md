@@ -226,3 +226,18 @@ dist/PresenterApp.exe
 ```text
 installer_output/
 ```
+
+# Future Contributions
+
+Future planned enhancements for PresenterApp may include, we welcome your contributions regarding the following:
+
+- 🎙️ AI Live Captions
+- 🧠 AI Voice Recognition
+- 🔊 Voice Enhancement & Noise Reduction
+- 🌐 Real-Time Translation Overlay
+- 🎥 OBS Studio Integration
+- 📊 Microsoft PowerPoint Integration
+- 🎨 Advanced Drawing & Annotation Tools
+- ✨ Presentation Animations & Visual Effects
+
+The project aims to evolve into a modern open-source presentation platform for educators, researchers, content creators, and professional presenters.
