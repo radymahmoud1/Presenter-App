@@ -229,7 +229,7 @@ installer_output/
 
 # Future Contributions
 
-Future planned enhancements for PresenterApp may include, we welcome your contributions regarding the following:
+For the future planned enhancements for PresenterApp, I welcome your contributions regarding the following features that might be included:
 
 - 🎙️ AI Live Captions
 - 🧠 AI Voice Recognition
