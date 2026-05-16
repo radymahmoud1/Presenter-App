@@ -26,7 +26,7 @@ PresenterApp is designed for:
 
 ## Download
 
-The latest stable version can be found in the repository **[Releases](https://github.com/radymahmoud1/Presenter-App/releases/tag/V1.0.0_Initial_Release)** section.
+The First stable version can be found in the repository **[Version 1.0](https://github.com/radymahmoud1/Presenter-App/releases/tag/V1.0.0_Initial_Release)** section.
 
 ### Included Downloads
 
@@ -36,6 +36,15 @@ The latest stable version can be found in the repository **[Releases](https://gi
 #### Portable Version (No Installation Required)
 - `Portable_PresenterApp_v1.0.0.exe`
 
+The Latest stable version can be found in the repository **[Version 2.0](https://github.com/radymahmoud1/Presenter-App/releases/tag/V2.0.0_New_Release)** section.
+
+### Included Downloads
+
+#### Windows Installer (Recommended)
+- `PresenterApp_Setup_v2.0.0.exe`
+
+#### Portable Version (No Installation Required)
+- `Portable_PresenterApp_v2.0.0.exe`
 ---
 
 # Main Features
@@ -235,7 +244,6 @@ For the future planned enhancements for PresenterApp, I welcome your contributio
 - 🧠 AI Voice Recognition
 - 🔊 Voice Enhancement & Noise Reduction
 - 🌐 Real-Time Translation Overlay
-- 🎥 OBS Studio Integration
 - 📊 Microsoft PowerPoint Integration
 - 🎨 Advanced Drawing & Annotation Tools
 - ✨ Presentation Animations & Visual Effects
